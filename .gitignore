@@ -1,0 +1,4 @@
+sensor.csv
+*.csv
+.ipynb_checkpoints/
+sample_data/
